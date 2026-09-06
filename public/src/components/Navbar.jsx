@@ -26,7 +26,7 @@ export default function Navbar() {
                     className="flex shrink-0 items-center gap-2.5"
                 >
                     <img
-                        src={`${import.meta.env.BASE_URL}public/data/logo.png`}
+                        src={`${import.meta.env.BASE_URL}data/logo.png`}
                         alt="Stayloka"
                         className="h-18 w-auto object-contain"
                     />

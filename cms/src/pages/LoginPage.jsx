@@ -38,7 +38,7 @@ export default function LoginPage() {
                 <div className="absolute -bottom-36 -left-20 size-96 rounded-full bg-sky-400/20 blur-3xl" />
                 <div className="relative flex items-center gap-3">
                  <img
-                        src={`${import.meta.env.BASE_URL}public/data/logo.png`}
+                        src={`${import.meta.env.BASE_URL}data/logo.png`}
                         alt="Stayloka"
                         className="h-20 w-auto object-contain"
                     />

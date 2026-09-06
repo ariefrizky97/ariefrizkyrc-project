@@ -25,7 +25,7 @@ export default function Footer() {
               className="inline-flex items-center gap-3"
             >
             <img
-                src={`${import.meta.env.BASE_URL}public/data/logo.png`}
+                src={`${import.meta.env.BASE_URL}data/logo.png`}
                 alt="Stayloka"
                 className="h-18 w-auto object-contain"
             />
