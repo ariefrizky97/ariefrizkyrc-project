@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Nusa Dua Ocean Resort",
+    "location": "Nusa Dua, Bali",
+    "category": "Resort",
+    "price": 1750000,
+    "rating": 4.9,
+    "reviews": 1280,
+    "image": "https://ik.imagekit.io/ariefrizkyrc/9e869456-e33b-4b89-9800-213e4404bcfe.png?updatedAt=1788490460110",
+    "description": "Penginapan nyaman dengan lokasi strategis dan fasilitas lengkap."
+  },
+  {
+    "id": 2,
+    "name": "The Kuta Heritage Hotel",
+    "location": "Kuta, Bali",
+    "category": "Hotel",
+    "price": 980000,
+    "rating": 4.7,
+    "reviews": 864,
+    "image": "https://ik.imagekit.io/ariefrizkyrc/photo-1582719478250-c89cae4dc85b.avif",
+    "description": "Penginapan nyaman dengan lokasi strategis dan fasilitas lengkap."
+  },
+  {
+    "id": 3,
+    "name": "Malioboro Grand Suites",
+    "location": "Yogyakarta",
+    "category": "Apartemen",
+    "price": 720000,
+    "rating": 4.8,
+    "reviews": 632,
+    "image": "https://ik.imagekit.io/ariefrizkyrc/photo-1542314831-068cd1dbfeeb.avif",
+    "description": "Penginapan nyaman dengan lokasi strategis dan fasilitas lengkap."
+  },
+  {
+    "id": 4,
+    "name": "Bandung Hills Retreat",
+    "location": "Lembang, Bandung",
+    "category": "Vila",
+    "price": 1450000,
+    "rating": 4.9,
+    "reviews": 491,
+    "image": "https://ik.imagekit.io/ariefrizkyrc/photo-1564501049412-61c2a3083791.avif",
+    "description": "Penginapan nyaman dengan lokasi strategis dan fasilitas lengkap."
+  },
+  {
+    "id": 5,
+    "name": "Jakarta Central Residence",
+    "location": "Menteng, Jakarta",
+    "category": "Hotel",
+    "price": 1100000,
+    "rating": 4.6,
+    "reviews": 745,
+    "image": "https://ik.imagekit.io/ariefrizkyrc/photo-1520250497591-112f2f40a3f4.avif",
+    "description": "Penginapan nyaman dengan lokasi strategis dan fasilitas lengkap."
+  },
+  {
+    "id": 6,
+    "name": "Ubud Forest Hideaway",
+    "location": "Ubud, Bali",
+    "category": "Vila",
+    "price": 1890000,
+    "rating": 4.9,
+    "reviews": 532,
+    "image": "https://ik.imagekit.io/ariefrizkyrc/photo-1571896349842-33c89424de2d.avif",
+    "description": "Penginapan nyaman dengan lokasi strategis dan fasilitas lengkap."
+  },
+  {
+    "id": 7,
+    "name": "Semarang Heritage Stay",
+    "location": "Kota Lama, Semarang",
+    "category": "Hotel",
+    "price": 630000,
+    "rating": 4.5,
+    "reviews": 389,
+    "image": "https://ik.imagekit.io/ariefrizkyrc/photo-1571003123894-1f0594d2b5d9.avif",
+    "description": "Penginapan nyaman dengan lokasi strategis dan fasilitas lengkap."
+  },
+  {
+    "id": 8,
+    "name": "Surabaya Citylight Hotel",
+    "location": "Tunjungan, Surabaya",
+    "category": "Hotel",
+    "price": 780000,
+    "rating": 4.6,
+    "reviews": 458,
+    "image": "https://ik.imagekit.io/ariefrizkyrc/photo-1445019980597-93fa8acb246c.avif",
+    "description": "Penginapan nyaman dengan lokasi strategis dan fasilitas lengkap."
+  },
+  {
+    "id": 9,
+    "name": "Lombok Bay Villas",
+    "location": "Senggigi, Lombok",
+    "category": "Vila",
+    "price": 1650000,
+    "rating": 4.8,
+    "reviews": 367,
+    "image": "https://ik.imagekit.io/ariefrizkyrc/photo-1551882547-ff40c63fe5fa.avif",
+    "description": "Penginapan nyaman dengan lokasi strategis dan fasilitas lengkap."
+  },
+  {
+    "id": 10,
+    "name": "Bogor Green Escape",
+    "location": "Puncak, Bogor",
+    "category": "Resort",
+    "price": 1250000,
+    "rating": 4.7,
+    "reviews": 578,
+    "image": "https://ik.imagekit.io/ariefrizkyrc/photo-1551882547-ff40c63fe5fa.avif",
+    "description": "Penginapan nyaman dengan lokasi strategis dan fasilitas lengkap."
+  },
+  {
+    "id": 11,
+    "name": "Solo Royal Boutique",
+    "location": "Laweyan, Solo",
+    "category": "Hotel",
+    "price": 590000,
+    "rating": 4.5,
+    "reviews": 296,
+    "image": "https://ik.imagekit.io/ariefrizkyrc/photo-1559599189-fe84dea4eb79.avif",
+    "description": "Penginapan nyaman dengan lokasi strategis dan fasilitas lengkap."
+  },
+  {
+    "id": 12,
+    "name": "Makassar Harbour View",
+    "location": "Losari, Makassar",
+    "category": "Apartemen",
+    "price": 850000,
+    "rating": 4.6,
+    "reviews": 321,
+    "image": "https://ik.imagekit.io/ariefrizkyrc/photo-1540541338287-41700207dee6%20(1).avif",
+    "description": "Penginapan nyaman dengan lokasi strategis dan fasilitas lengkap."
+  }
+]
